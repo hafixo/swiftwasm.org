@@ -20,7 +20,7 @@
     "start": "webpack-dev-server"
   },
   "dependencies": {
-    "@wasmer/wasi": "^0.9.1",
+    "@wasmer/wasi": "^0.12.0",
     "@wasmer/wasmfs": "^0.9.1"
   },
   "devDependencies": {
